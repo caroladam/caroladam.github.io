@@ -1,0 +1,10 @@
+---
+title: "Genetic structuring and species boundaries in the Atlantic stony coral Favia (Scleractinia, Faviidae)"
+collection: publications
+permalink: /publications/2024_favia_structure.md
+excerpt: 'We access population structure and species boundaries in the Atlantic stony coral Favia.'
+date: 2024
+venue: 'Zoologica scripta'
+paperurl: 'http://academicpages.github.io/files/Adam_et_al_2024_ZSC.pdf'
+citation: 'Adam, C. D. L., Toonen, R. J., Carlon, D. B., Zilberberg, C., & Barbeitos, M. S. (2024). Genetic structuring and species boundaries in the Atlantic stony coral Favia (Scleractinia, Faviidae). Zoologica Scripta, 53(3), 376-394.'
+---
