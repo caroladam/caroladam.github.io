@@ -77,12 +77,11 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
   name             : "Carolina Adam"
   icon: 🧬 
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpeg"
   bio              : "evolutionary biologist"
   location         : "Eugene, OR"
   employer         : "University of Oregon"
