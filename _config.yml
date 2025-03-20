@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale: "en-US"
 icon: 🧬 
-site_theme               : "default"
-title                    : "Carolina Adam"
-title_separator          : "-"
-name                     : &name "Carolina de Lima Adam"
-description              : &description "I am a zoologist broadly interested in using genetic and genomic data to better understand the evolutionary history of model and non-model organisms and in studying the microevolutionary processes controlling their population dynamics and genetic diversity. I am currently a postdoctoral fellow at the Rohlfs Lab at the Institute of Ecology and Evolution - University of Oregon"
-url                      : https://caroladam.github.io 
-baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+site_theme: "default"
+title: "Carolina's Homepage"
+title_separator: "-"
+name: &name "Carolina de Lima Adam"
+description: &description "I am a zoologist broadly interested in using genetic and genomic data to better understand the evolutionary history of model and non-model organisms and in studying the microevolutionary processes controlling their population dynamics and genetic diversity. I am currently a postdoctoral fellow at the Rohlfs Lab at the Institute of Ecology and Evolution - University of Oregon"
+url: https://caroladam.github.io 
+baseurl: ""
+repository: "caroladam/caroladam.github.io"
 
 author:
   # Biographic information
