@@ -20,7 +20,7 @@ repository: "caroladam/caroladam.github.io"
 
 author:
   # Biographic information
-  avatar           : "images/profile2.png"
+  avatar           : "profile2.png"
   name             : "Carolina Adam"
   pronouns         : "she/her"  
   bio              : "evolutionary biologist"
