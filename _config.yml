@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "images/profile2.png"
   name             : "Carolina Adam"
   pronouns         : "she/her"  
   bio              : "evolutionary biologist"
@@ -30,9 +30,9 @@ author:
   email            : "carolinaladam@gmail.com / carolid@uoregon.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=4-g6rzUAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0003-1558-4152"
-  researchgate     : "https://www.researchgate.net/profile/Carolina-Adam?ev=hdr_xprf"
+  googlescholar    : # "https://scholar.google.com/citations?user=4-g6rzUAAAAJ&hl=en"
+  orcid            : # "https://orcid.org/0000-0003-1558-4152"
+  researchgate     : # "https://www.researchgate.net/profile/Carolina-Adam?ev=hdr_xprf"
 
   # Repositories and software development
   github           : "caroladam"
