@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- Ph.D in Zoology, Universidade Federal do Parana (UFPR), 2017-2022
+- M.S. in Zoology, Universidade Federal do Parana (UFPR), 2015-2017
+- B.S. in Biology, Universidade Estadual do Parana (UNESPAR), 2010-2014
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Postdoctoral Research Fellow at the [Rohlfs Lab](https://rohlfslab.weebly.com/), University of Oregon, current
+- Ph.D intern at the [ToBo Lab](https://tobolab.org/), Hawai'i Institute of Marine Biology, University of Hawai'i, 2019-2020
+- Graduate researcher with [Marcos Barbeitos](https://scholar.google.com/citations?user=Pxo5pnYAAAAJ&hl=en) at UFPR, 2017-2022
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+ <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+- "Phylogenetics of the Atlantic reef-building coral Favia spp. (Scleractinia, Mussidae)" (2021). II Virtual Meeting of Systematics, Biogeography, and Evolution.
+- "Challenges of the Life Sciences graduate after graduation" (2021). Panel discussion at the Life Sciences Undergraduate Program at the Universidade Tecnológica do Paraná, Ponta Grossa, Brazil.
+- "Next-generation sequencing and bioinformatics" (2019). Invited talk at the X Semana Acadêmica de Biologia, Universidade Estadual do Paraná, Paranaguá, Brazil.
+
+Synergistic Activities
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current). 
+- Organizer of the V Zoology Symposium (2019). Universidade Federal do Paraná, Curitiba, Brazil.
+- Instructor of the undergraduate course "Manipulation of DNA Sequences" (2018). Universidade Federal do Paraná, Curitiba, Brazil.
+- Member of the Science Outreach committee for the Zoology graduate program (2019-2023). Universidade Federal do Paraná, Curitiba, Brazil.
+- Student representative for the Zoology graduate program (2018-2019). Universidade Federal do Paraná, Curitiba, Brazil.
