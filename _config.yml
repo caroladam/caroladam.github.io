@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+icon: 🧬 
 site_theme               : "default"
 title                    : "Carolina Adam"
 title_separator          : "-"
