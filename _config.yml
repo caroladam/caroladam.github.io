@@ -89,8 +89,6 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "caroladam"
   twitter          : "CarollAdam"
-  podcast: "Science Wise Podcast"
-  podcast_url: "https://www.sciencewisepodcast.org/"
 
 # Reading Files
 include:
