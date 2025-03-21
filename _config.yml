@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🧬 Carolina's Homepage"
+title                    : "Carolina's Homepage"
 title_separator          : "-"
 name                     : &name "Carolina Adam"
 description              : &description "evolutionary biologist"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Carolina Adam"
   avatar           : "profile2.jpeg"
-  bio              : "evolutionary biologist"
+  bio              : "🧬 evolutionary biologist"
   location         : "Eugene, OR"
   employer         : "University of Oregon"
   googlescholar    : "https://scholar.google.com/citations?user=4-g6rzUAAAAJ&hl=en"
