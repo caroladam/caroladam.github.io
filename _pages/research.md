@@ -8,7 +8,7 @@ author_profile: true
 - **Tandem Repeat Evolution**  
 <div style="width: 100%; display: flex; align-items: flex-start;">
   <img src="images/human_chimp_dna.png" alt="Tandem Repeat Evolution" width="250" style="margin-right: 15px;">
-  <div style="flex: 1;">
+  <div style="flex: 10;">
     <p>
       Tandem repeats (TRs) are repetitive DNA sequences crucial in genome evolution and function.
       Technological limitations held back our grasp of these elements until recently. Now, with long-read, high-fidelity whole-genome sequencing and advanced analytical tools, we are poised to uncover the extensive TR variation across eukaryotic genomes.
