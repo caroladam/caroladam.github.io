@@ -1,7 +1,7 @@
 ---
 title: "Ontogenetic shape changes and sexual dimorphism in Aegla marginata Bond-Buckup and Buckup, 1994"
 collection: publications
-permalink: /publications/2018_sexual_dimorphism.md
+permalink: /publications/2018_sexual_dimorphism
 excerpt: 'We describe the behavior of newly-hatched juveniles and maternal care in Aegla schmitti.'
 date: 2018-06-15
 venue: 'Anais da Academia Brasileira de Ciencias'
