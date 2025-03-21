@@ -8,3 +8,7 @@ venue: 'BioRxiv'
 paperurl: 'http://academicpages.github.io/files/track_adam_et_al_2024.pdf'
 citation: 'Adam, C. L., Rocha, J., Sudmant, P., & Rohlfs, R. (2024). TRACKing Tandem Repeats: a customizable pipeline for identification and cross-species comparisons. bioRxiv, 2024-09.'
 ---
+
+Click [here](https://github.com/caroladam/track) to download the TRACK pipeline!
+
+![track_workflow](https://github.com/caroladam/caroladam.github.io/blob/master/images/track_workflow.png)
