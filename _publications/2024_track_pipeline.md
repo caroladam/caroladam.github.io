@@ -11,4 +11,4 @@ citation: 'Adam, C. L., Rocha, J., Sudmant, P., & Rohlfs, R. (2024). TRACKing Ta
 
 Click [here](https://github.com/caroladam/track) to download the TRACK pipeline!
 
-![track_workflow](https://github.com/caroladam/caroladam.github.io/blob/master/images/track_workflow.png)
+![track_workflow](http://caroladam.github.io/images/track_workflow.png)
