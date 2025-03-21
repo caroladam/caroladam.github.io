@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carolina's Homepage"
+title                    : "🧬 Carolina's Homepage"
 title_separator          : "-"
 name                     : &name "Carolina Adam"
 description              : &description "evolutionary biologist"
@@ -80,7 +80,6 @@ analytics:
 # Site Author
 author:
   name             : "Carolina Adam"
-  icon: 🧬 
   avatar           : "profile2.jpeg"
   bio              : "evolutionary biologist"
   location         : "Eugene, OR"
