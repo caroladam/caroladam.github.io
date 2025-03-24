@@ -33,9 +33,12 @@ Presentations
 - "Challenges of the Life Sciences graduate after graduation" (2021). Panel discussion at the Life Sciences Undergraduate Program at the Universidade Tecnológica do Paraná, Ponta Grossa, Brazil.
 - "Next-generation sequencing and bioinformatics" (2019). Invited talk at the X Semana Acadêmica de Biologia, Universidade Estadual do Paraná, Paranaguá, Brazil.
 
-Synergistic Activities
+Other Activities
 ======
-- Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current). 
+- Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
+<div style="float: left; margin-right: 15px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/science_wise.png" alt="coral_dna" style="width: 200px;">
+</div>
 - Organizer of the V Zoology Symposium (2019). Universidade Federal do Paraná, Curitiba, Brazil.
 - Instructor of the undergraduate course "Manipulation of DNA Sequences" (2018). Universidade Federal do Paraná, Curitiba, Brazil.
 - Member of the Science Outreach committee for the Zoology graduate program (2019-2023). Universidade Federal do Paraná, Curitiba, Brazil.
