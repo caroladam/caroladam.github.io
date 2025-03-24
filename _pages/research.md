@@ -7,7 +7,7 @@ author_profile: true
 
 - **Tandem Repeat Evolution**  
 <div style="clear: both;">
-  <img src="_pages/images/human_chimp_dna.png" alt="Tandem Repeat Evolution" width="250" style="float: left; margin-right: 15px; margin-bottom: 10px;">
+  <img src="images/human_chimp_dna.png" alt="Tandem Repeat Evolution" width="250" style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <p>
     Tandem repeats (TRs) are repetitive DNA sequences crucial in genome evolution and function.
     Technological limitations held back our grasp of these elements until recently. With long-read, high-fidelity whole-genome sequencing and advanced analytical tools, we are poised to uncover the extensive TR variation across eukaryotic genomes.
@@ -20,7 +20,7 @@ author_profile: true
 
 - **Coral Phylogenetics**  
 <div style="clear: both;">
-  <img src="_pages/images/coral_dna.png" alt="Coral phylogenetics" width="250" style="float: left; margin-right: 15px; margin-bottom: 10px;">
+  <img src="images/coral_dna.png" alt="Coral phylogenetics" width="250" style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <p>
     Scleractinian corals, known as "hard corals", are the main builders of coral reefs, and are extremely susceptible to environmental disturbances. To design effective conservation plans, it is essential to identify the taxonomic units that make up the reef
     ecosystem and fully understand their population dynamics and genetic diversity.
