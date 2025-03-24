@@ -7,7 +7,9 @@ author_profile: true
 
 # **Tandem Repeat Evolution**  
 
-![human_chimp](https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/human_chimp_dna.png){: style="width: 200px; float: left; margin-right: 15px; margin-bottom: 10px;"}
+<div style="float: left; margin-right: 15px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/human_chimp_dna.png" alt="human_chimp" style="width: 200px;">
+</div>
     
 Tandem repeats (TRs) are repetitive DNA sequences crucial in genome evolution and function.
 Technological limitations held back our grasp of these elements until recently. With long-read, high-fidelity whole-genome sequencing and advanced analytical tools, we are poised to uncover the extensive TR variation across eukaryotic genomes.
@@ -17,8 +19,10 @@ We are leveraging long-read data within and between species to test evolutionary
 
 # **Coral Phylogenetics**  
 
-![coral_dna](https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png){: style="width: 200px; float: left; margin-right: 15px; margin-bottom: 10px;"}
-   
+<div style="float: left; margin-right: 15px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png" alt="coral_dna" style="width: 200px;">
+</div>
+
 Scleractinian corals, known as "hard corals", are the main builders of coral reefs, and are extremely susceptible to environmental disturbances. To design effective conservation plans, it is essential to identify the taxonomic units that make up the reef
 ecosystem and fully understand their population dynamics and genetic diversity.
 
