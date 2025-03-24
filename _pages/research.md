@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-- **Tandem Repeat Evolution**  
+#**Tandem Repeat Evolution**  
 <div style="clear: both;">
   <img src="images/human_chimp_dna.png" alt="Tandem Repeat Evolution" width="250" style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <p>
@@ -18,7 +18,7 @@ author_profile: true
   </p>
 </div>
 
-- **Coral Phylogenetics**  
+#**Coral Phylogenetics**  
 <div style="clear: both;">
   <img src="images/coral_dna.png" alt="Coral phylogenetics" width="250" style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <p>
