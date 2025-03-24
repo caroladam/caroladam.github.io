@@ -21,8 +21,8 @@ We are leveraging long-read data within and between species to test evolutionary
 
 ## **Coral Phylogenetics**  
 
-<div style="float: left; margin-right: 15px; margin-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png" alt="coral_dna" style="width: 200px;">
+<div style="float: left; margin-left: 10px; margin-right: 15px; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png" alt="coral_dna" style="width: 300px;">
 </div>
 
 Scleractinian corals, known as "hard corals", are the main builders of coral reefs, and are extremely susceptible to environmental disturbances. To design effective conservation plans, it is essential to identify the taxonomic units that make up the reef
