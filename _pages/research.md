@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# **Tandem Repeat Evolution**  
+## **Tandem Repeat Evolution**  
 
 <div style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/human_chimp_dna.png" alt="human_chimp" style="width: 200px;">
@@ -19,7 +19,7 @@ We are leveraging long-read data within and between species to test evolutionary
 
 <div style="clear: both;"></div> <!-- Clear the float -->
 
-# **Coral Phylogenetics**  
+## **Coral Phylogenetics**  
 
 <div style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png" alt="coral_dna" style="width: 200px;">
