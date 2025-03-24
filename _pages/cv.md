@@ -35,10 +35,10 @@ Presentations
 
 Other Activities
 ======
-- Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
 <div style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/science_wise.png" alt="sciencewise" style="width: 100px;">
 </div>
+- Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
 
 - Organizer of the V Zoology Symposium (2019). Universidade Federal do Paraná, Curitiba, Brazil.
 - Instructor of the undergraduate course "Manipulation of DNA Sequences" (2018). Universidade Federal do Paraná, Curitiba, Brazil.
