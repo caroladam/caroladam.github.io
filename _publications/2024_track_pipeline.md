@@ -1,6 +1,5 @@
 ---
 title: "TRACKing Tandem Repeats: a customizable pipeline for identification and cross-species comparisons"
-![track_workflow](/images/track_workflow.png)
 collection: publications
 permalink: /publication/2024_track_pipeline
 excerpt: 'We present the TRACK, a user-friendly Snakemake pipeline designed to consolidate the discovery and comparison of tandem repeats (TRs) across species'
