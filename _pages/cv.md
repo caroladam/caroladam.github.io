@@ -38,6 +38,7 @@ Other Activities
 <div style="float: left; margin-left: 15px; margin-right: 30px; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/science_wise.png" alt="sciencewise" style="width: 100px;">
 </div>
+
 - Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
 
 - Organizer of the V Zoology Symposium (2019). Universidade Federal do Paraná, Curitiba, Brazil.
