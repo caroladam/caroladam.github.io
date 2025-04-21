@@ -43,10 +43,11 @@ Grants and Fellowships
 
 Services
 ======
-- Coordinator of judging session for Evo-Wibo (2025). Blaine, Washington, USA.
-- Member of the Science Outreach committee for the Zoology graduate program (2019-2023). Universidade Federal do Paraná, Curitiba, Brazil.
-- Student representative for the Zoology graduate program (2018-2019). Universidade Federal do Paraná, Curitiba, Brazil.
-- Organizer of the V Zoology Symposium (2019). Universidade Federal do Paraná, Curitiba, Brazil.
+- Member of the organizing committee for _Evo-Wibo_ (2025). Blaine, Washington, USA.
+- Invited manuscript reviewer for _Communications Biology_ (2025).
+- Member of the _Science Outreach committee_ for the Zoology graduate program (2019-2023). Universidade Federal do Paraná, Curitiba, Brazil.
+- _Student representative_ for the Zoology graduate program (2018-2019). Universidade Federal do Paraná, Curitiba, Brazil.
+- Member of the organizing committee for the _V Zoology Symposium_ (2019). Universidade Federal do Paraná, Curitiba, Brazil.
 
 Other Activities
 ======
@@ -54,6 +55,6 @@ Other Activities
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/science_wise.png" alt="sciencewise" style="width: 200px;">
 </div>
 
-- Social Media Manager for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
-- Instructor of the undergraduate course "R for Data Science (R4DS)" (2025). University of Oregon, Eugene, USA.
-- Instructor of the undergraduate course "Manipulation of DNA Sequences" (2018). Universidade Federal do Paraná, Curitiba, Brazil.
+- _Social Media Manager_ for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
+- Instructor of the undergraduate course _"R for Data Science (R4DS)"_ (2025). University of Oregon, Eugene, USA.
+- Instructor of the undergraduate course _"Manipulation of DNA Sequences"_ (2018). Universidade Federal do Paraná, Curitiba, Brazil.
