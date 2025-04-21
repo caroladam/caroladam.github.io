@@ -27,13 +27,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Presentations
+Talks
 ======
-- "Phylogenetics of the Atlantic reef-building coral Favia spp. (Scleractinia, Mussidae)" (2021). II Virtual Meeting of Systematics, Biogeography, and Evolution.
-- "Challenges of the Life Sciences graduate after graduation" (2021). Panel discussion at the Life Sciences Undergraduate Program at the Universidade Tecnológica do Paraná, Ponta Grossa, Brazil.
-- "Bayesian species delimitation, morphometry and connectivity among Favia gravida (Scleractinia: Mussidae) along the South Atlantic" (2019). Hawai'i Institute of Marine Biology, Hawai'i, USA.
-- "Next-generation sequencing and bioinformatics" (2019). Invited talk at the X Semana Acadêmica de Biologia, Universidade Estadual do Paraná, Paranaguá, Brazil.
+- “Tandem Tales: Insights into primate evolution through Tandem Repeats.” _Evo-WIBO 2025_, Blaine, Washington, USA. (2025)
+- “Phylogenetics of the Atlantic reef-building coral _Favia_ spp. (Scleractinia, Mussidae).” _II Virtual Meeting of Systematics, Biogeography, and Evolution_. (2021)
+- “Challenges of the Life Sciences graduate after graduation.” Panelist, Life Sciences Undergraduate Program, Universidade Tecnológica do Paraná, Ponta Grossa, Brazil. (2021)
+- “Bayesian species delimitation, morphometry and connectivity among _Favia gravida_ (Scleractinia: Mussidae) along the South Atlantic.” _Hawai‘i Institute of Marine Biology_, Hawai‘i, USA. (2019)
+- “Next-generation sequencing and bioinformatics.” Invited talk, _10th Biology Academic Week_, Universidade Estadual do Paraná, Paranaguá, Brazil. (2019)
 
+Invited Lectures and Workshops
+======
+- Instructor, _R for Data Science (R4DS)_ (Undergraduate Course), University of Oregon. (2025)
+- Instructor, _Phylogenetic Comparative Methods_ module, part of Comparative Invertebrate Zoology (Graduate Course), Universidade Federal do Paraná. (2021)
+- Instructor, _Manipulation of DNA Sequences_ (Workshop), Universidade Federal do Paraná. (2018)
+  
 Grants and Fellowships
 ======
 - Coral Bleaching RCN Early Career Fellowship, granted in 2020 by the Ohio State University.
@@ -41,13 +48,13 @@ Grants and Fellowships
 - Ph.D. scholarship awarded by the Coordination for the Improvement of Higher Education Personnel (CAPES) from 2017-2021.
 - Master's scholarship awarded by the Coordination for the Improvement of Higher Education Personnel (CAPES) from 2015-2017.
 
-Services
+Academic Services
 ======
-- Member of the organizing committee for _Evo-Wibo_ (2025). Blaine, Washington, USA.
-- Invited manuscript reviewer for _Communications Biology_ (2025).
-- Member of the _Science Outreach committee_ for the Zoology graduate program (2019-2023). Universidade Federal do Paraná, Curitiba, Brazil.
-- _Student representative_ for the Zoology graduate program (2018-2019). Universidade Federal do Paraná, Curitiba, Brazil.
-- Member of the organizing committee for the _V Zoology Symposium_ (2019). Universidade Federal do Paraná, Curitiba, Brazil.
+- Organizing Committee Member, _Evo-WIBO 2025_, Blaine, Washington, USA. (2025)
+- Invited Manuscript Reviewer, _Communications Biology_. (2025)
+- Member, _Science Outreach Committee_, Zoology Graduate Program, Universidade Federal do Paraná, Curitiba, Brazil. (2019–2023)
+- _Student Representative_, Zoology Graduate Program, Universidade Federal do Paraná, Curitiba, Brazil. (2018–2019)
+- Organizing Committee Member, _V Zoology Symposium_, Universidade Federal do Paraná, Curitiba, Brazil. (2019)
 
 Other Activities
 ======
@@ -56,5 +63,4 @@ Other Activities
 </div>
 
 - _Social Media Manager_ for the "[Science Wise Podcast](https://www.sciencewisepodcast.org/): Lessons from people who shape science" (current).
-- Instructor of the undergraduate course _"R for Data Science (R4DS)"_ (2025). University of Oregon, Eugene, USA.
-- Instructor of the undergraduate course _"Manipulation of DNA Sequences"_ (2018). Universidade Federal do Paraná, Curitiba, Brazil.
+
