@@ -37,6 +37,7 @@ Talks
 
 Invited Lectures and Workshops
 ======
+- “Tandem Repeats and beyond: My academic trajectory as an international scholar.” _University of Oregon J-1 Scholar Lunchtime Lecture Series_, Eugene, Oregon, USA. (2025)
 - Instructor, _R for Data Science (R4DS)_ (Undergraduate Course), University of Oregon. (2025)
 - Instructor, _Phylogenetic Comparative Methods_ module, part of Comparative Invertebrate Zoology (Graduate Course), Universidade Federal do Paraná. (2021)
 - Instructor, _Manipulation of DNA Sequences_ (Workshop), Universidade Federal do Paraná. (2018)
