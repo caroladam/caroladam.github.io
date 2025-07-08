@@ -12,4 +12,4 @@ I'm a zoologist broadly interested in using genetic and genomic data to better u
 
 I am currently a postdoctoral fellow at the [Rohlfs Lab](https://rohlfslab.weebly.com/) at the Institute of Ecology and Evolution - University of Oregon, investigating the underlying mechanisms dictating Tandem Repeat evolution and their adaptive potential in ape genomes.
 
-You can check out my most recent work in [Publications](https://caroladam.github.io/publications/) and [Research](https://caroladam.github.io/_pages/research.md).
+You can check out my most recent work in [Publications](https://caroladam.github.io/publications/) and [Research](https://github.com/caroladam/caroladam.github.io/blob/master/_pages/research.md).
