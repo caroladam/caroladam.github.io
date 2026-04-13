@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## **Tandem Repeat Evolution**  
+## **Tandem Repeat evolution**  
 
 <div style="float: left; margin-right: 15px; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/human_chimp_dna.png" alt="human_chimp" style="width: 200px;">
@@ -17,7 +17,7 @@ In my postdoc work, I study the evolution of TRs in primate genomes, focusing on
 
 <div style="clear: both;"></div> <!-- Clear the float -->
 
-## **Coral Phylogenetics**  
+## **Phylogenetics of marine organisms**  
 
 <div style="float: left; margin-left: 10px; margin-right: 15px; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png" alt="coral_dna" style="width: 300px;">
