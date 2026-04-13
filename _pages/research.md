@@ -20,7 +20,7 @@ In my postdoc work, I study the evolution of TRs in primate genomes, focusing on
 ## **Phylogenetics of marine organisms**  
 
 <div style="float: left; margin-left: 10px; margin-right: 15px; margin-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/coral_dna.png" alt="coral_dna" style="width: 300px;">
+  <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/path1.png" alt="path1" style="width: 200px;">
 </div>
 
 Coral reefs and coastal systems are among the most threatened marine ecosystems, and understanding the taxonomy, population structure, and evolutionary history of their constituent species is essential for conservation. This has motivated my interest in phylogenography, phylogenetics, and species delimitation in marine organisms, with a focus on how genetic diversity is structured across spatial scales.
