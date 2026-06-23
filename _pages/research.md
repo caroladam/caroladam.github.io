@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="display:flex; align-items:center;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/human_chimp_dna.png" alt="human_chimp" style="width: 100px;">
-  <h2 style="margin:5;">Tandem Repeat evolution</h2>
+  <h2 style="margin:5;">     Tandem Repeat evolution</h2>
 </div>
 
 Tandem repeats (TRs) are highly mutable repetitive DNA sequences that can influence gene regulation, gene function, and disease-related phenotypes. Historically, they have been difficult to study due to technological limitations, but advances in high-fidelity long-read whole-genome sequencing and analytical tools now allow the characterization of TR variation across genomes.
@@ -16,7 +16,7 @@ In my postdoc work, I study the evolution of TRs in primate genomes, focusing on
 
 <div style="display:flex; align-items:center;">
   <img src="https://raw.githubusercontent.com/caroladam/caroladam.github.io/master/_pages/images/path1.png" alt="path1" style="width: 100px;">
-  <h2 style="margin:5;">Phylogenetics of marine organisms</h2>
+  <h2 style="margin:5;">     Phylogenetics of marine organisms</h2>
 </div>
 
 Coral reefs and coastal systems are among the most threatened marine ecosystems, and understanding the taxonomy, population structure, and evolutionary history of their constituent species is essential for conservation. This has motivated my interest in phylogenography, phylogenetics, and species delimitation in marine organisms, with a focus on how genetic diversity is structured across spatial scales.
